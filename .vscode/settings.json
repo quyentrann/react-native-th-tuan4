@@ -1,0 +1,5 @@
+{
+    "pretty-formatter.bracePadding": true,
+    "reactSnippets.settings.prettierEnabled": true,
+    "editor.fontWeight": "normal"
+}
